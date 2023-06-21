@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T12:13:59.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="p2mSaWU3p5NFn4TjxCae" version="21.3.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-21T12:17:16.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dfecYLDC08sVddBmWKHR" version="21.3.5" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Main">
-    <mxGraphModel dx="1531" dy="2650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3889" dy="4131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UCIDEO2dUaZ8MRB4tbwf-38" value="ProjectProductionManagement (PPM)" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="-560" width="1844" height="3710" as="geometry" />
+          <mxGeometry x="920" y="-1120" width="1844" height="3710" as="geometry" />
         </mxCell>
         <mxCell id="UCIDEO2dUaZ8MRB4tbwf-10" value="Informasjonsflyt" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="UCIDEO2dUaZ8MRB4tbwf-38">
           <mxGeometry x="40" y="20" width="930" height="1190" as="geometry" />
