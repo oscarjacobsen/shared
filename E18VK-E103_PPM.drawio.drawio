@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T12:12:02.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="v7TuHdW-OxuFQOigCfCw" version="21.3.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-21T12:13:32.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Lg1rGVA-f25Z87zbsXfL" version="21.3.5" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Main">
     <mxGraphModel dx="1531" dy="2650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -197,11 +197,29 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="zfPuU6d7O3pm1Su8_oKs" name="Arbeidsflyt">
+  <diagram id="zfPuU6d7O3pm1Su8_oKs" name="Arbeid_Bygging">
     <mxGraphModel dx="2358" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="D3K2LMp3ECeB5q6hBuVG-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="399" y="555" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D3K2LMp3ECeB5q6hBuVG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D3K2LMp3ECeB5q6hBuVG-2" target="D3K2LMp3ECeB5q6hBuVG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D3K2LMp3ECeB5q6hBuVG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="D3K2LMp3ECeB5q6hBuVG-2" target="D3K2LMp3ECeB5q6hBuVG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D3K2LMp3ECeB5q6hBuVG-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D3K2LMp3ECeB5q6hBuVG-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D3K2LMp3ECeB5q6hBuVG-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="760" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
