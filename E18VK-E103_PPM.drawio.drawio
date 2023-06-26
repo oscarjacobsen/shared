@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T07:38:42.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="eI-rvsSD0n1zlySiK3gn" version="21.5.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-06-26T07:39:49.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VbU5APJc9BqkDxNM2QNw" version="21.5.0" type="github" pages="8">
   <diagram id="U85Tl0zGOLjwVDSW-sKf" name="PPM_Objekt">
     <mxGraphModel dx="3971" dy="6651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="-790" y="220" width="6360" height="1280" as="geometry" />
         </mxCell>
         <mxCell id="SJrA-TtuDRkzt01EFISS-26" value="Ansvarlig Fag" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NSvMrOstXk4iF05Gr3z-11">
-          <mxGeometry x="40" y="650" width="2670" height="290" as="geometry" />
+          <mxGeometry x="40" y="710" width="2670" height="290" as="geometry" />
         </mxCell>
         <mxCell id="9NSvMrOstXk4iF05Gr3z-5" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-26">
           <mxGeometry x="63" y="90" width="40" height="40" as="geometry" />
@@ -192,14 +192,18 @@
         <mxCell id="SJrA-TtuDRkzt01EFISS-35" value="Eksterne Aktører" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-790" y="-1370" width="3980" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="SJrA-TtuDRkzt01EFISS-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="SJrA-TtuDRkzt01EFISS-24">
+        <mxCell id="SJrA-TtuDRkzt01EFISS-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SJrA-TtuDRkzt01EFISS-42" target="SJrA-TtuDRkzt01EFISS-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="915" y="980" as="sourcePoint" />
             <mxPoint x="990" y="1550" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="945" y="980" />
-              <mxPoint x="945" y="1590" />
+              <mxPoint x="944" y="1040" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-111" value="JA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SJrA-TtuDRkzt01EFISS-62">
+          <mxGeometry x="-0.9649" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SJrA-TtuDRkzt01EFISS-83" value="Trimble Connect" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -213,9 +217,6 @@
         </mxCell>
         <mxCell id="SJrA-TtuDRkzt01EFISS-87" value="Monday.com" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-790" y="-2170" width="3980" height="520" as="geometry" />
-        </mxCell>
-        <mxCell id="SJrA-TtuDRkzt01EFISS-91" value="JA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="920.260869565218" y="980.0434782608718" as="geometry" />
         </mxCell>
         <mxCell id="SJrA-TtuDRkzt01EFISS-92" value="ICE" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-790" y="1740" width="6260" height="200" as="geometry" />
