@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T07:00:38.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Gl5rDrkhadIYxlICd6nn" version="21.5.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-06-26T07:07:26.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pUJ1feLCTaysTB6p3RGj" version="21.5.0" type="github" pages="8">
   <diagram id="qVO3Ni6fqKTWogBHPnrm" name="Main">
     <mxGraphModel dx="2358" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -386,21 +386,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U85Tl0zGOLjwVDSW-sKf" name="Bygging">
-    <mxGraphModel dx="6722" dy="4872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2877" dy="2457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9NSvMrOstXk4iF05Gr3z-5" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="700" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="9NSvMrOstXk4iF05Gr3z-11" value="Norconsult" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="210" width="3980" height="610" as="geometry" />
+          <mxGeometry x="-790" y="220" width="3980" height="640" as="geometry" />
         </mxCell>
         <mxCell id="SJrA-TtuDRkzt01EFISS-26" value="Ansvarlig Fag" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NSvMrOstXk4iF05Gr3z-11">
-          <mxGeometry x="70" y="390" width="200" height="200" as="geometry" />
+          <mxGeometry x="31" y="430" width="2000" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="9NSvMrOstXk4iF05Gr3z-5" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-26">
+          <mxGeometry x="63" y="90" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SJrA-TtuDRkzt01EFISS-27" value="Ansvarlig Prosjektering" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NSvMrOstXk4iF05Gr3z-11">
-          <mxGeometry x="70" y="180" width="200" height="200" as="geometry" />
+          <mxGeometry x="31" y="220" width="2000" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-28" value="Ansvarlig BIM" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NSvMrOstXk4iF05Gr3z-11">
+          <mxGeometry x="31" y="10" width="2000" height="200" as="geometry" />
         </mxCell>
         <mxCell id="9NSvMrOstXk4iF05Gr3z-12" value="Skanska" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-790" y="-310" width="3980" height="520" as="geometry" />
@@ -431,7 +434,7 @@
           <mxGeometry x="-790" y="-830" width="3980" height="520" as="geometry" />
         </mxCell>
         <mxCell id="SJrA-TtuDRkzt01EFISS-6" value="MMI" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="830" width="3980" height="200" as="geometry" />
+          <mxGeometry x="-790" y="870" width="3980" height="200" as="geometry" />
         </mxCell>
         <mxCell id="SJrA-TtuDRkzt01EFISS-4" value="MMI425&lt;br&gt;Etablert/utført" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#4baa5a;strokeColor=#9673a6;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-6">
           <mxGeometry x="2499" y="70" width="143" height="60" as="geometry" />
