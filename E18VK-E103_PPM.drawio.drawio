@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T08:05:55.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Magy8O8qIWvGUfkX-Ojr" version="21.5.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-06-26T08:08:06.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="f5BWfDFfdv3aP7onC_Y0" version="21.5.0" type="github" pages="10">
   <diagram id="U85Tl0zGOLjwVDSW-sKf" name="PPM_Objekt">
     <mxGraphModel dx="3073" dy="6086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,10 +120,12 @@
         <mxCell id="SJrA-TtuDRkzt01EFISS-113" value="3d" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-115">
           <mxGeometry y="60" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SJrA-TtuDRkzt01EFISS-173" value="" style="group" vertex="1" connectable="0" parent="SJrA-TtuDRkzt01EFISS-26">
-          <mxGeometry x="1790" y="70" width="120" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="SJrA-TtuDRkzt01EFISS-174" value="TFK" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-173">
+        <UserObject label="" link="data:page/id,CBUD0gto8GgpNVZvc2ag" id="SJrA-TtuDRkzt01EFISS-173">
+          <mxCell style="group" vertex="1" connectable="0" parent="SJrA-TtuDRkzt01EFISS-26">
+            <mxGeometry x="1790" y="70" width="120" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-174" value="TFK&lt;br&gt;Konsept" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-173">
           <mxGeometry width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SJrA-TtuDRkzt01EFISS-175" value="2d" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-173">
@@ -137,10 +139,12 @@
             <mxGeometry x="1980" y="80" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="SJrA-TtuDRkzt01EFISS-176" value="" style="group" vertex="1" connectable="0" parent="SJrA-TtuDRkzt01EFISS-27">
-          <mxGeometry x="1790" y="80" width="120" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="SJrA-TtuDRkzt01EFISS-177" value="TFK" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-176">
+        <UserObject label="" link="data:page/id,CBUD0gto8GgpNVZvc2ag" id="SJrA-TtuDRkzt01EFISS-176">
+          <mxCell style="group" vertex="1" connectable="0" parent="SJrA-TtuDRkzt01EFISS-27">
+            <mxGeometry x="1790" y="80" width="120" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-177" value="TFK&lt;br&gt;Konsept" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-176">
           <mxGeometry width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SJrA-TtuDRkzt01EFISS-178" value="2d" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-176">
@@ -155,10 +159,12 @@
         <mxCell id="SJrA-TtuDRkzt01EFISS-30" value="Andre Fag" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NSvMrOstXk4iF05Gr3z-11">
           <mxGeometry x="40" y="1040" width="2670" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="SJrA-TtuDRkzt01EFISS-158" value="" style="group" vertex="1" connectable="0" parent="SJrA-TtuDRkzt01EFISS-30">
-          <mxGeometry x="1790" y="60" width="120" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="SJrA-TtuDRkzt01EFISS-155" value="TFK" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-158">
+        <UserObject label="" link="data:page/id,CBUD0gto8GgpNVZvc2ag" id="SJrA-TtuDRkzt01EFISS-158">
+          <mxCell style="group" vertex="1" connectable="0" parent="SJrA-TtuDRkzt01EFISS-30">
+            <mxGeometry x="1790" y="60" width="120" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-155" value="TFK&lt;br&gt;Konsept" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-158">
           <mxGeometry width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SJrA-TtuDRkzt01EFISS-157" value="2d" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-158">
@@ -189,10 +195,12 @@
         <mxCell id="SJrA-TtuDRkzt01EFISS-33" value="Ansvarlig Byggeleder" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NSvMrOstXk4iF05Gr3z-12">
           <mxGeometry x="40" y="110" width="2990" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="SJrA-TtuDRkzt01EFISS-179" value="" style="group" vertex="1" connectable="0" parent="SJrA-TtuDRkzt01EFISS-33">
-          <mxGeometry x="1760" y="40" width="120" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="SJrA-TtuDRkzt01EFISS-180" value="TFK" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-179">
+        <UserObject label="" link="data:page/id,CBUD0gto8GgpNVZvc2ag" id="SJrA-TtuDRkzt01EFISS-179">
+          <mxCell style="group" vertex="1" connectable="0" parent="SJrA-TtuDRkzt01EFISS-33">
+            <mxGeometry x="1760" y="40" width="120" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-180" value="TFK&lt;br&gt;Konsept" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-179">
           <mxGeometry width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SJrA-TtuDRkzt01EFISS-181" value="2d" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-179">
@@ -728,6 +736,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D7C2H4m3XoFiJzzJvcDW" name="Ferdigstillelse / Sluttdokumentasjon">
+    <mxGraphModel dx="2358" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="CBUD0gto8GgpNVZvc2ag" name="TFK_Konsept">
     <mxGraphModel dx="2358" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
