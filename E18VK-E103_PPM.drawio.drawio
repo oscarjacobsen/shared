@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T07:07:26.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pUJ1feLCTaysTB6p3RGj" version="21.5.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-06-26T07:20:35.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="o5dMRWEfcfyG-KgikDLm" version="21.5.0" type="github" pages="8">
   <diagram id="qVO3Ni6fqKTWogBHPnrm" name="Main">
     <mxGraphModel dx="2358" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -386,24 +386,106 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U85Tl0zGOLjwVDSW-sKf" name="Bygging">
-    <mxGraphModel dx="2877" dy="2457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2971" dy="3684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9NSvMrOstXk4iF05Gr3z-11" value="Norconsult" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="220" width="3980" height="640" as="geometry" />
+          <mxGeometry x="-790" y="220" width="3980" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="SJrA-TtuDRkzt01EFISS-26" value="Ansvarlig Fag" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NSvMrOstXk4iF05Gr3z-11">
-          <mxGeometry x="31" y="430" width="2000" height="200" as="geometry" />
+          <mxGeometry x="40" y="650" width="2000" height="200" as="geometry" />
         </mxCell>
         <mxCell id="9NSvMrOstXk4iF05Gr3z-5" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-26">
           <mxGeometry x="63" y="90" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SJrA-TtuDRkzt01EFISS-27" value="Ansvarlig Prosjektering" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NSvMrOstXk4iF05Gr3z-11">
-          <mxGeometry x="31" y="220" width="2000" height="200" as="geometry" />
+        <mxCell id="SJrA-TtuDRkzt01EFISS-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-26">
+          <mxGeometry x="150" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SJrA-TtuDRkzt01EFISS-28" value="Ansvarlig BIM" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NSvMrOstXk4iF05Gr3z-11">
-          <mxGeometry x="31" y="10" width="2000" height="200" as="geometry" />
+        <mxCell id="SJrA-TtuDRkzt01EFISS-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SJrA-TtuDRkzt01EFISS-26" source="SJrA-TtuDRkzt01EFISS-36" target="SJrA-TtuDRkzt01EFISS-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-40" value="JA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SJrA-TtuDRkzt01EFISS-39">
+          <mxGeometry x="-0.2482" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-36" value="Etablert konsept?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-26">
+          <mxGeometry x="370" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-26">
+          <mxGeometry x="530" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SJrA-TtuDRkzt01EFISS-26" source="SJrA-TtuDRkzt01EFISS-41" target="SJrA-TtuDRkzt01EFISS-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="SJrA-TtuDRkzt01EFISS-26" source="SJrA-TtuDRkzt01EFISS-41" target="SJrA-TtuDRkzt01EFISS-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1350" y="170" />
+              <mxPoint x="780" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-53" value="NEI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SJrA-TtuDRkzt01EFISS-52">
+          <mxGeometry x="-0.7301" y="-4" relative="1" as="geometry">
+            <mxPoint x="74" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-41" value="Egenkontroll OK?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-26">
+          <mxGeometry x="1310" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="SJrA-TtuDRkzt01EFISS-26" source="SJrA-TtuDRkzt01EFISS-42" target="SJrA-TtuDRkzt01EFISS-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1620" y="170" />
+              <mxPoint x="780" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-56" value="NEI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SJrA-TtuDRkzt01EFISS-54">
+          <mxGeometry x="-0.9645" y="-2" relative="1" as="geometry">
+            <mxPoint x="12" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-42" value="Fagkontroll&lt;br&gt;OK?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-26">
+          <mxGeometry x="1580" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SJrA-TtuDRkzt01EFISS-26" source="SJrA-TtuDRkzt01EFISS-43" target="SJrA-TtuDRkzt01EFISS-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-43" value="Utfører egenkontroll" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-26">
+          <mxGeometry x="1150" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SJrA-TtuDRkzt01EFISS-26" source="SJrA-TtuDRkzt01EFISS-45" target="SJrA-TtuDRkzt01EFISS-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-45" value="Utfører fagkontroll" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-26">
+          <mxGeometry x="1430" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SJrA-TtuDRkzt01EFISS-26" source="SJrA-TtuDRkzt01EFISS-48" target="SJrA-TtuDRkzt01EFISS-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-26">
+          <mxGeometry x="720" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SJrA-TtuDRkzt01EFISS-26" source="SJrA-TtuDRkzt01EFISS-49" target="SJrA-TtuDRkzt01EFISS-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-49" value="Prosjektering/&lt;br&gt;dokumentering&amp;nbsp;&lt;br&gt;ferdig?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-26">
+          <mxGeometry x="940" y="60" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-27" value="Ansvarlig Prosjektering" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NSvMrOstXk4iF05Gr3z-11">
+          <mxGeometry x="40" y="440" width="2000" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-28" value="Ansvarlig BIM/Digital" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NSvMrOstXk4iF05Gr3z-11">
+          <mxGeometry x="40" y="230" width="2000" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-30" value="Andre Fag" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NSvMrOstXk4iF05Gr3z-11">
+          <mxGeometry x="40" y="860" width="2000" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-32" value="Ansvarlig Dokumentkontroller" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NSvMrOstXk4iF05Gr3z-11">
+          <mxGeometry x="40" y="20" width="2000" height="200" as="geometry" />
         </mxCell>
         <mxCell id="9NSvMrOstXk4iF05Gr3z-12" value="Skanska" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-790" y="-310" width="3980" height="520" as="geometry" />
@@ -430,11 +512,14 @@
         <mxCell id="SJrA-TtuDRkzt01EFISS-5" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="9NSvMrOstXk4iF05Gr3z-12">
           <mxGeometry x="490" y="390" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-33" value="Ansvarlig Byggeleder" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NSvMrOstXk4iF05Gr3z-12">
+          <mxGeometry x="40" y="110" width="2000" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="9NSvMrOstXk4iF05Gr3z-13" value="Statens Vegvesen" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="-830" width="3980" height="520" as="geometry" />
+          <mxGeometry x="-790" y="-840" width="3980" height="520" as="geometry" />
         </mxCell>
         <mxCell id="SJrA-TtuDRkzt01EFISS-6" value="MMI" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="870" width="3980" height="200" as="geometry" />
+          <mxGeometry x="-790" y="1320" width="3980" height="200" as="geometry" />
         </mxCell>
         <mxCell id="SJrA-TtuDRkzt01EFISS-4" value="MMI425&lt;br&gt;Etablert/utført" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#4baa5a;strokeColor=#9673a6;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-6">
           <mxGeometry x="2499" y="70" width="143" height="60" as="geometry" />
@@ -485,10 +570,16 @@
           <mxGeometry x="777" y="70" width="143" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SJrA-TtuDRkzt01EFISS-24" value="MMI125&lt;br&gt;Etablert konsept" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e69637;strokeColor=#9673a6;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-6">
-          <mxGeometry x="630" y="70" width="143" height="60" as="geometry" />
+          <mxGeometry x="559" y="70" width="143" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SJrA-TtuDRkzt01EFISS-25" value="MMI100&lt;br&gt;Grunnlags&lt;br&gt;-informasjon" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e69637;strokeColor=#9673a6;" vertex="1" parent="SJrA-TtuDRkzt01EFISS-6">
-          <mxGeometry x="487" y="70" width="143" height="60" as="geometry" />
+          <mxGeometry x="190" y="70" width="143" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-35" value="Eksterne Aktører" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="-1370" width="3980" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="SJrA-TtuDRkzt01EFISS-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="SJrA-TtuDRkzt01EFISS-37" target="SJrA-TtuDRkzt01EFISS-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
