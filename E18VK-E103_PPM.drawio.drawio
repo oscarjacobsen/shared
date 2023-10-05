@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T14:28:39.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Uh6xJhlBvemAOsBL_on0" version="21.7.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-10-05T10:47:57.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="QsxdDjKC5-x8Yhjd5E7J" version="21.8.2" type="github" pages="10">
   <diagram id="U85Tl0zGOLjwVDSW-sKf" name="PPM_Objekt">
-    <mxGraphModel dx="19237" dy="16426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4174" dy="6812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,7 +204,7 @@
         <mxCell id="SJrA-TtuDRkzt01EFISS-33" value="Ansvarlig Byggeleder" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="9NSvMrOstXk4iF05Gr3z-12" vertex="1">
           <mxGeometry x="40" y="110" width="2990" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="qNZBmDh4WCYeJmtIjNNq-1" value="" style="group" vertex="1" connectable="0" parent="SJrA-TtuDRkzt01EFISS-33">
+        <mxCell id="qNZBmDh4WCYeJmtIjNNq-1" value="" style="group" parent="SJrA-TtuDRkzt01EFISS-33" vertex="1" connectable="0">
           <mxGeometry x="1760" y="40" width="120" height="100" as="geometry" />
         </mxCell>
         <UserObject label="TFK&lt;br&gt;Konsept" link="data:page/id,CBUD0gto8GgpNVZvc2ag" id="SJrA-TtuDRkzt01EFISS-180">
@@ -362,7 +362,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zfPuU6d7O3pm1Su8_oKs" name="Fremdriftsplan">
-    <mxGraphModel dx="2358" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1841" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -748,10 +748,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7dAZ2TkDWXQHPHGU9_BJ" name="TFK_Godkjent?">
-    <mxGraphModel dx="2358" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="736" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="Marek" link="data:page/id,U85Tl0zGOLjwVDSW-sKf" id="gIIa4HGRV8NmYjtK0j9C-1">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+            <mxGeometry x="400" y="570" width="30" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
