@@ -1,9 +1,331 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="eN_KCjF6BB5Cc8r_H5vY">
-    <mxGraphModel dx="2358" dy="1277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3185" dy="2446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-1" value="Påkrevd" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="730" y="320" width="930" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-2" value="Betinget" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="520" width="930" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-3" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="920" width="930" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-6" value="Trekkekum_853" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="320" width="220" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-7" value="Kumform_9738" style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-8" value="Plassering_9740" style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-9" value="MaterialeKum_9741" style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="90" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-10" value="MaterialeLokk_11241" style="text;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="120" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-11" value="Brannsikker_9742" style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="150" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-12" value="DiameterYtre_9729" style="text;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="180" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-13" value="BreddeYtre_9728" style="text;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="210" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-14" value="LengdeYtre_9739" style="text;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="240" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-15" value="DybdeYtre_9737" style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="270" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-16" value="AntallRør_10840" style="text;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="300" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-17" value="Tilleggsinformasjon_11242" style="text;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="330" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-18" value="Etableringsår_9731" style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="360" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-19" value="Driftsmerking_9757" style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="390" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-20" value="Produsent_9734" style="text;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="420" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-21" value="Produktnavn_9735" style="text;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="450" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-22" value="Arkivnummer_9730" style="text;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="480" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-23" value="Arkivreferanse_11701" style="text;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="510" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-24" value="Prosjektreferanse_11168" style="text;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="540" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-25" value="ProsjektInternObjekt_12427" style="text;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="570" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-26" value="FKB_ID_10859" style="text;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="600" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-27" value="RelevantForEkomporta_12451" style="text;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="630" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-28" value="Eier_9732" style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="660" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-29" value="EierNavn_9733" style="text;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="690" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-30" value="Vedlikeholdsansvarli_10981" style="text;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="720" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-31" value="GeometriPunkt_9843" style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-6">
+          <mxGeometry y="750" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-32" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="720" width="930" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-33" value="Påkrevd&#xa;(Må være utfyllt, riktig)" style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-34" value="Betinget &#xa;(dersom &quot;xxx&quot; --&gt; påkrevd)" style="text;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-35" value="Opsjonell &#xa;(Valgfri)" style="text;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="420" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzLcuG3RuFL7MSPVkcva-37" target="rzLcuG3RuFL7MSPVkcva-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-37" value="enum_Kumform_9738" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="80" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-38" value="Kvadratisk" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-37">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-39" value="Rektangulær" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-37">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-40" value="Rund" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-37">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzLcuG3RuFL7MSPVkcva-42" target="rzLcuG3RuFL7MSPVkcva-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-42" value="enum_&lt;span style=&quot;text-align: left;&quot;&gt;Plassering_9740&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="-10" width="140" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-43" value="I terreng" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-42">
+          <mxGeometry y="30" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-44" value="I tunnelbankett" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-42">
+          <mxGeometry y="70" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-45" value="Bak betongrekkverk" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-42">
+          <mxGeometry y="110" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-46" value="I vegskulder" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-42">
+          <mxGeometry y="150" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-47" value="I trafikkdeler" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-42">
+          <mxGeometry y="190" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-48" value="I fortau" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-42">
+          <mxGeometry y="230" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-49" value="I g/s-veg" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-42">
+          <mxGeometry y="270" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-50" value="I fjellrom/nisje" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-42">
+          <mxGeometry y="310" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-51" value="I vegbane" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-42">
+          <mxGeometry y="350" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-52" value="På tunnelvegg utside" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-42">
+          <mxGeometry y="390" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-53" value="På tunnelvegg innside" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-42">
+          <mxGeometry y="430" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-54" value="enum_MaterialeKum_9741" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="355" width="160" height="230" as="geometry">
+            <mxRectangle x="-690" y="355" width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-55" value="Betong" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-54">
+          <mxGeometry y="30" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-56" value="Skumglassplater" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-54">
+          <mxGeometry y="70" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-57" value="Stål" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-54">
+          <mxGeometry y="110" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-58" value="Plast" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-54">
+          <mxGeometry y="150" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-59" value="Betong, spesialprodusert" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-54">
+          <mxGeometry y="190" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzLcuG3RuFL7MSPVkcva-57" target="rzLcuG3RuFL7MSPVkcva-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzLcuG3RuFL7MSPVkcva-62" target="rzLcuG3RuFL7MSPVkcva-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-62" value="enum_&lt;span style=&quot;text-align: left;&quot;&gt;MaterialeLokk_11241&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-503" y="510" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-63" value="Plast" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-62">
+          <mxGeometry y="30" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-64" value="Betong" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-62">
+          <mxGeometry y="70" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-65" value="Støpjern" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-62">
+          <mxGeometry y="110" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-66" value="enum_&lt;span style=&quot;text-align: left;&quot;&gt;Brannsikker_9742&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="680" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-67" value="Nei" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-66">
+          <mxGeometry y="30" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-68" value="Ja" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-66">
+          <mxGeometry y="70" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzLcuG3RuFL7MSPVkcva-67" target="rzLcuG3RuFL7MSPVkcva-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-200" y="730" />
+              <mxPoint x="-200" y="485" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-70" value="enum_&lt;span style=&quot;text-align: left;&quot;&gt;RelevantForEkomporta_12451&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="840" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-71" value="Nei" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-70">
+          <mxGeometry y="30" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-72" value="Ja" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-70">
+          <mxGeometry y="70" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzLcuG3RuFL7MSPVkcva-71" target="rzLcuG3RuFL7MSPVkcva-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-74" value="enum_Eier_9732" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="880" width="140" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-75" value="Uavklart" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-74">
+          <mxGeometry y="30" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-76" value="Privat" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-74">
+          <mxGeometry y="70" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-77" value="Kommune" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-74">
+          <mxGeometry y="110" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-78" value="Fylkeskommune" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-74">
+          <mxGeometry y="150" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-79" value="Stat, Statens vegvesen" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-74">
+          <mxGeometry y="190" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-80" value="Stat, Nye Veier" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-74">
+          <mxGeometry y="230" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzLcuG3RuFL7MSPVkcva-77" target="rzLcuG3RuFL7MSPVkcva-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-82" value="enum_Vedlikeholdsansvarli_10981" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="1050" width="200" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-83" value="Statens vegvesen" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-82">
+          <mxGeometry y="30" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-84" value="OPS" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-82">
+          <mxGeometry y="70" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-85" value="Nye Veier" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-82">
+          <mxGeometry y="110" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-86" value="Fylkeskommune" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-82">
+          <mxGeometry y="150" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-87" value="Uavklart" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-82">
+          <mxGeometry y="190" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-88" value="Privat" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-82">
+          <mxGeometry y="230" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-89" value="Kommune" style="text;whiteSpace=wrap;" vertex="1" parent="rzLcuG3RuFL7MSPVkcva-82">
+          <mxGeometry y="270" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzLcuG3RuFL7MSPVkcva-86" target="rzLcuG3RuFL7MSPVkcva-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzLcuG3RuFL7MSPVkcva-92" target="rzLcuG3RuFL7MSPVkcva-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-92" value="Påkrevd hvis Kumform=Rund." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="500" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzLcuG3RuFL7MSPVkcva-95" target="rzLcuG3RuFL7MSPVkcva-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzLcuG3RuFL7MSPVkcva-95" target="rzLcuG3RuFL7MSPVkcva-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-95" value="Påkrevd hvis Kumform=Kvadratisk eller Rektangulær." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="550" width="290" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzLcuG3RuFL7MSPVkcva-97" target="rzLcuG3RuFL7MSPVkcva-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-97" value="Dersom flere arkivnummer gis disse etter hverandre med semikolon mellom." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="800" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rzLcuG3RuFL7MSPVkcva-99" target="rzLcuG3RuFL7MSPVkcva-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-99" value="Skal angis for nye vegobjekter som overføres fra et utbyggings- eller vedlikeholdsprosjekt." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="860" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzLcuG3RuFL7MSPVkcva-101" target="rzLcuG3RuFL7MSPVkcva-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-101" value="Skal angis for vegobjekt tilhørende Nye Veier AS så fremt slik ID er etablert." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="890" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzLcuG3RuFL7MSPVkcva-103" target="rzLcuG3RuFL7MSPVkcva-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-103" value="Påkrevd hvis privat eier." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1010" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzLcuG3RuFL7MSPVkcva-105" target="rzLcuG3RuFL7MSPVkcva-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzLcuG3RuFL7MSPVkcva-105" value="Skal angis om vedlikeholdsansvarlig avviker fra eier av vegobjektet. Skal angis for alle vegobjekter tilhørende Nye Veier AS." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1040" width="370" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
