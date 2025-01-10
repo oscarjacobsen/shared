@@ -1,0 +1,46 @@
+<ids:ids xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://standards.buildingsmart.org/IDS http://standards.buildingsmart.org/IDS/1.0/ids.xsd" xmlns:ids="http://standards.buildingsmart.org/IDS">
+  <!--edited with usBIM.IDSeditor 2.2.29.0 (http://www.accasoftware.com)-->
+  <ids:info>
+    <ids:title>poc_no-svv_nvdb_trekkekum_853</ids:title>
+    <ids:copyright>Norconsult Norge AS</ids:copyright>
+    <ids:version>30.03</ids:version>
+    <ids:description>Forslag IDS NVDB Trekkekum_853</ids:description>
+    <ids:author>Oscar.Jacobsen@norconsult.com</ids:author>
+    <ids:date>2024-12-19</ids:date>
+    <ids:purpose>Forslag IDS NVDB Trekkekum_853</ids:purpose>
+  </ids:info>
+  <ids:specifications>
+    <ids:specification ifcVersion="IFC2X3 IFC4 IFC4X3_ADD2" name="Trekkekum_853: Valgfri Tilleggsinformasjon_11242">
+      <ids:applicability minOccurs="0" maxOccurs="unbounded">
+        <ids:property dataType="IFCLABEL">
+          <ids:propertySet>
+            <ids:simpleValue>Trekkekum_853</ids:simpleValue>
+          </ids:propertySet>
+          <ids:baseName>
+            <ids:simpleValue>Tilleggsinformasjon_11242</ids:simpleValue>
+          </ids:baseName>
+          <ids:value>
+            <xs:restriction base="xs:string">
+              <xs:pattern value=".+" />
+            </xs:restriction>
+          </ids:value>
+        </ids:property>
+      </ids:applicability>
+      <ids:requirements>
+        <ids:property dataType="IFCLABEL" cardinality="optional" instructions="Kan inneholde hva som helst, max 400 tegn&#xA;&#xA;^.{1,400}$&#xA;">
+          <ids:propertySet>
+            <ids:simpleValue>Trekkekum_853</ids:simpleValue>
+          </ids:propertySet>
+          <ids:baseName>
+            <ids:simpleValue>Tilleggsinformasjon_11242</ids:simpleValue>
+          </ids:baseName>
+          <ids:value>
+            <xs:restriction base="xs:string">
+              <xs:pattern value="^.{1,400}$" />
+            </xs:restriction>
+          </ids:value>
+        </ids:property>
+      </ids:requirements>
+    </ids:specification>
+  </ids:specifications>
+</ids:ids>
